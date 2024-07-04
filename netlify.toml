@@ -3,7 +3,7 @@
   command = "npm install && npm run build"
 
 [context.production]
-  branch = "refs/heads/main"
+  branch = "main"
 
 [[redirects]]
   from = "/*"
