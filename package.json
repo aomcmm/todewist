@@ -1,1 +1,29 @@
+{
+  "name": "business-todo-app",
+  "version": "1.0.0",
+  "description": "A modern and functional to-do list web app for business people.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'No build step specified'",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/your-repo.git"
+  },
+  "keywords": [
+    "todo",
+    "business",
+    "netlify",
+    "webapp"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/your-repo/issues"
+  },
+  "homepage": "https://github.com/yourusername/your-repo#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
 
