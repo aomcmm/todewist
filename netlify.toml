@@ -2,6 +2,9 @@
   publish = "public"
   command = "npm install && npm run build"
 
+[context.production]
+  branch = "refs/heads/main"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
